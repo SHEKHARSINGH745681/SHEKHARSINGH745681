@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekharsingh745681&label=Profile%20views&color=0e75b6&style=flat" alt="shekharsingh745681" /> </p>
 
-- 🔭 I’m currently studying on **ABESIT**
+- 🔭 I’m currently studying in **ABESIT**
 
 - 🌱 I’m currently learning **Frameworks,web3**
 
