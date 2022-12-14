@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java,Frond-end**
 
-- 📫 How to reach me **shekharsingh745681@gamil.com**
+- 📫 How to reach me **shekharsingh745681@gmail.com**
 
 - 📄 Know about my experiences [https://pdf.ac/173C3q](https://pdf.ac/173C3q)
 
