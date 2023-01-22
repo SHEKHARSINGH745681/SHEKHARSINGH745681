@@ -1,7 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm SHEKHAR SINGH</h1>
 <h3 align="center">IT ENGINEER|JAVA|DATA STRUCTRES|SQL|WEB DEVLOPER|NODE.JS|JAVASCRIPT|</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0wc1KMaVlQDxXns_L1eFuL&ust=1674451589044000&source=images&cd=vfe&ved=0CA8QjRxqGAoTCNj-8LK42vwCFQAAAAAdAAAAABC_AQ">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekharsingh745681&label=Profile%20views&color=0e75b6&style=flat" alt="shekharsingh745681" /> </p>
