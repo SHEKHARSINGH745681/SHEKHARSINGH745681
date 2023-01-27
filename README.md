@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm SHEKHAR SINGH</h1>
-<h3 align="center">IT ENGINEER|JAVA|DATA STRUCTRES|SQL|WEB DEVLOPER|NODE.JS|JAVASCRIPT|</h3>
+<h3 align="center">IT ENGINEER |JAVA |DATA STRUCTRES |SQL |WEB DEVLOPER |NODE.JS |JAVASCRIPT |</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
