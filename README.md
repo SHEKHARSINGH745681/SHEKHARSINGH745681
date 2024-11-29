@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm SHEKHAR SINGH</h1>
-<h3 align="center"> |JAVA DEVELOPER |DATA STRUCTRES |SQL |WEB DEVLOPER |SPRING BOOT |JAVASCRIPT |</h3>
+<h1 align="center">Hi 👋, I'm SHEKHAR SINGH </h1>
+<h1 align="center">BackEnd Developer 🔁 </h1>
+<h3 align="center"> |.NET/JAVA DEVELOPER |DATA STRUCTRES |SQL |WEB DEVLOPER | GIT | |</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,19 +13,17 @@
 
 - 🔭 I’m currently Studying Information Technology on **ABESIT**
 
-- 🌱 I’m currently learning **Frameworks,web3,data structures**
+- 🌱 I’m currently learning **Data Structures/ System Designing**
 
-- 🤝 I’m looking for help with [JEEVAN](https://github.com/SHEKHARSINGH745681/hacknovate-4.0)
+- 👨‍💻 Currently Working on the at [Employee Management]
 
-- 👨‍💻 All of my projects are available at [https://github.com/SHEKHARSINGH745681/-Glassmorphism-Website](https://github.com/SHEKHARSINGH745681/-Glassmorphism-Website)
-
-- 💬 Ask me about **Java,Html,Css,javaScript**
+- 💬 Ask me about **Java, .NET ASP , SQL, GIT , POSTGRES **
 
 - 📫 How to reach me **shekharsingh745681@gamil.com**
 
 - 📄 Know about my experiences [https://pdf.ac/173C3q](https://pdf.ac/173C3q)
 
-- ⚡ Fun fact **Swimming,Cricket,Volleyboll**
+- ⚡ Fun fact **Travelling,Cricket,Volleyboll**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
