@@ -1,87 +1,65 @@
-# 🚀 Shekhar Singh | .NET & Cloud Engineer
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SHEKHARSINGH745681&label=Profile%20views&color=0e75b6&style=flat)
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38b6ff&height=220&section=header&text=Hi%20There,%20I'm%20Shekhar%20Singh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20.NET%20%26%20Java%20%7C%20Building%20things%20that%20scale&descAlignY=55&descSize=18" width="100%"/>
 
----
+<!-- Typing animation -->
+<a href="https://github.com/shekharsingh745681">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%94%81;.NET+%2F+Java+%2F+SQL+Enthusiast;Always+learning+something+new;Welcome+to+my+profile+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
-## 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=shekharsingh745681&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/shekharsingh745681?label=Followers&style=social" alt="followers" />
 
-I am an Information Technology student focused on **.NET Full Stack Development** and **Cloud Technologies (Azure & AWS)**.
+</div>
 
-- 🔭 Building backend systems using ASP.NET Core
-- ☁️ Working with Microsoft Azure & AWS Cloud
-- 🧠 Learning System Design & Scalable Architecture
-- 🏗️ Currently working on an Employee Management System
-- 💬 Ask me about .NET, C#, Web API, SQL, Azure, AWS
-- 📫 Email: shekharsingh745681@gmail.com
+<br/>
 
----
+<img align="right" alt="Coding gif" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🧰 Tech Stack
 
-### 💻 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🗄️ Database
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🛠️ Languages & Tools
 
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,dotnet,cs,html,css,js,react,nodejs,django,mongodb,mysql,postgres,firebase,gcp,arduino,flutter,git,vscode,figma,photoshop&theme=light" />
+</p>
 
 ---
 
-## 🚀 Projects
+### 📊 GitHub Stats
 
-### 🏢 Employee Management System
-- ASP.NET Core Web API
-- JWT Authentication
-- SQL Server Database
-- Role-based access control
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shekharsingh745681&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekharsingh745681&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shekharsingh745681&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### ☁️ Cloud Deployment Project
-- Hosted on Azure App Service
-- AWS EC2 deployment
-- Docker containerization
-- NGINX reverse proxy setup
-
----
-
-### 🔐 Authentication System
-- JWT authentication
-- Refresh tokens
-- Secure role-based authorization
-- Clean architecture (CQRS pattern)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shekharsingh745681&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 📈 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHEKHARSINGH745681&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekharsingh745681&theme=tokyo-night&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHEKHARSINGH745681&layout=compact&theme=tokyonight)
+<!--
+  Optional: animated "snake" contribution graph.
+  Add this as a GitHub Action (contrib.yml) in your profile repo so it auto-generates daily,
+  then swap the src below for your generated image URL:
+  https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake-dark.svg
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
----
-
-## 🌐 Connect With Me
-
-- 📧 Email: shekharsingh745681@gmail.com  
-- 💼 GitHub: https://github.com/SHEKHARSINGH745681  
-
----
-
-## 🎯 Goal
-
-Becoming a **.NET + Cloud Engineer (Azure & AWS)** focused on scalable backend systems and real-world production architecture.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38b6ff,100:0e75b6&height=120&section=footer" width="100%"/>
+</div>
