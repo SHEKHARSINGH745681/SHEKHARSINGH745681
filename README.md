@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5e17eb,50:8a2be2,100:38b6ff&height=230&section=header&text=Full%20Stack%20.NET%20Developer&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20intelligent%20apps%20with%20.NET%20%2B%20Generative%20AI&descAlignY=52&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e17eb,50:8a2be2,100:38b6ff&height=250&section=header&text=Full%20Stack%20.NET%20Developer&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Building%20intelligent%20apps%20with%20.NET%20%2B%20Generative%20AI&descAlignY=52&descSize=17" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=ASP.NET+Core+%7C+C%23+%7C+Azure;Semantic+Kernel+%2B+LangChain+for+RAG+Pipelines;Shipping+AI+Copilots+on+.NET+Backends;Currently+exploring%3A+Multi-Agent+Orchestration" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=8a2be2&height=3&section=header&width=100%" width="100%"/>
 
 ## 👋 About Me
 
@@ -42,7 +42,9 @@ public class Developer
 - 🌱 Currently deepening my knowledge of **multi-agent orchestration** and **AI-driven DevOps**
 - 💬 Ask me about: Clean Architecture, CQRS, microservices, or prompt engineering for backend workflows
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38b6ff&height=3&section=header&width=100%" width="100%"/>
+</div>
 
 ## 🧬 Tech Stack
 
@@ -69,7 +71,9 @@ public class Developer
 </tr>
 </table>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=5e17eb&height=3&section=header&width=100%" width="100%"/>
+</div>
 
 ## 🧠 GenAI Lab
 
@@ -87,7 +91,17 @@ public class Developer
 
 > 💡 **Philosophy:** GenAI features are only as good as the backend serving them. I focus on making AI integrations **observable, scalable, and cost-aware** — not just a demo notebook.
 
-<br/>
+<div align="center">
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1500&color=38B6FF&center=true&vCenter=true&width=600&lines=Prompt+%E2%86%92+Retrieve+%E2%86%92+Ground+%E2%86%92+Generate+%E2%86%92+Serve" alt="pipeline" />
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=8a2be2&height=3&section=header&width=100%" width="100%"/>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -102,7 +116,9 @@ public class Developer
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38b6ff&height=3&section=header&width=100%" width="100%"/>
+</div>
 
 ## 🏆 Trophies
 
@@ -110,12 +126,25 @@ public class Developer
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=5e17eb&height=3&section=header&width=100%" width="100%"/>
+</div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="100%"/>
+
+<br/>
+
+<!--
+  Live "snake" animation eating your contribution graph — genuinely animates
+  every time the README loads. Generate your own via a `contrib.yml` GitHub
+  Action in a repo named YOUR_USERNAME/YOUR_USERNAME, then swap the src below.
+-->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
 <br/>
@@ -124,6 +153,6 @@ public class Developer
 
 ### 💭 "The best backend for an AI feature is one the user never has to think about."
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:38b6ff,50:8a2be2,100:5e17eb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38b6ff,50:8a2be2,100:5e17eb&height=150&section=footer" width="100%"/>
 
 </div>
