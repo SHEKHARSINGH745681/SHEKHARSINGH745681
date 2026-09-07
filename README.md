@@ -27,7 +27,7 @@
 ```csharp
 public class Developer
 {
-    public string Name        = "Your Name";
+    public string Name        = "SHEKHAR SINGH";
     public string Role        = "Full Stack .NET Developer";
     public string[] Focus     = { "ASP.NET Core APIs", "Azure Cloud", "Generative AI Integrations" };
     public string CurrentQuest = "Turning LLMs into production-grade .NET services";
